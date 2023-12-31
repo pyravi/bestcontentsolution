@@ -16,4 +16,4 @@ Welcome to the Website Project! This project aims to provide a responsive and fe
 
 ## Demo
 
-[![Demo Website](images\clients\bg-1.jpg)](videos\my_video.mp4)
+[![Demo Website](videos\my_video.gif)]
